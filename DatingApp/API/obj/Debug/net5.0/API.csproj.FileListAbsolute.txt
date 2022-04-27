@@ -83,7 +83,6 @@ C:\Users\Hanna Tiro\source\repos\PraksaApp\DatingApp\API\bin\Debug\net5.0\Micros
 C:\Users\Hanna Tiro\source\repos\PraksaApp\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Hanna Tiro\source\repos\PraksaApp\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Hanna Tiro\source\repos\PraksaApp\DatingApp\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\Hanna Tiro\source\repos\PraksaApp\DatingApp\API\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\Hanna Tiro\source\repos\PraksaApp\DatingApp\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Hanna Tiro\source\repos\PraksaApp\DatingApp\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Hanna Tiro\source\repos\PraksaApp\DatingApp\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -120,3 +119,4 @@ C:\Users\Hanna Tiro\source\repos\PraksaApp\DatingApp\API\obj\Debug\net5.0\API.dl
 C:\Users\Hanna Tiro\source\repos\PraksaApp\DatingApp\API\obj\Debug\net5.0\ref\API.dll
 C:\Users\Hanna Tiro\source\repos\PraksaApp\DatingApp\API\obj\Debug\net5.0\API.pdb
 C:\Users\Hanna Tiro\source\repos\PraksaApp\DatingApp\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\Hanna Tiro\source\repos\PraksaApp\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
