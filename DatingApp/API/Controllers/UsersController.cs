@@ -31,6 +31,7 @@ namespace API.Controllers
             _mapper = mapper;
             _photoService = photoService;
         }
+       
         [HttpGet]
      
         public  async Task<ActionResult<IEnumerable<MemberDto>>>GetUsers([FromQuery]UserParams userParams)
@@ -46,7 +47,7 @@ namespace API.Controllers
             return Ok(users);
 
         }
-   
+
         [HttpGet("{username}",Name ="GetUser")]  // Name can be used as one of parameters in CreatedAtRoute in AddPhoto function
         public async Task<ActionResult<MemberDto>> GetUser(string username)
         {
