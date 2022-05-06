@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hanna Tiro\\source\\repos\\PraksaApp\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\Hanna Tiro\\source\\repos\\PraksaApp\\datingapp\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hanna Tiro\\source\\repos\\PraksaApp\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\Hanna Tiro\\source\\repos\\PraksaApp\\datingapp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hanna Tiro\\source\\repos\\PraksaApp\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Hanna Tiro\\source\\repos\\PraksaApp\\datingapp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Hanna Tiro\\source\\repos\\PraksaApp\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Hanna Tiro\\source\\repos\\PraksaApp\\datingapp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\Hanna Tiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hanna Tiro\\source\\repos\\PraksaApp\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\Hanna Tiro\\source\\repos\\PraksaApp\\datingapp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

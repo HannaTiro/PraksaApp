@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kuxAO8SdGrjXCfIxlOpkGjD99EvIZdp0lcMk28ev5/V8v7N6O6TBVOSRTgSnaYLVXKHMQLuEun9HkkynRcN5dw==",
+  "dgSpecHash": "aZak7Zh1FKryKd1ZZRk4EbveaZV2TxOnm9hmxWw7+YbvFFOV61eLy6fz53KWD67fGnIJSsQlzJnHoPwbynQxug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hanna Tiro\\source\\repos\\PraksaApp\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Hanna Tiro\\source\\repos\\PraksaApp\\datingapp\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hanna Tiro\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Hanna Tiro\\.nuget\\packages\\automapper.collection\\8.0.0\\automapper.collection.8.0.0.nupkg.sha512",
